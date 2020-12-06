@@ -107,7 +107,7 @@ public abstract class PatientCard extends AnchorPane {
         buttonBar.setPrefHeight(40.0);
         buttonBar.setPrefWidth(200.0);
 
-        button0.setDefaultButton(true);
+        button0.setDefaultButton(false);
         button0.setMnemonicParsing(false);
         button0.setOnAction(this::editOnAction);
         button0.setText("Edit");
