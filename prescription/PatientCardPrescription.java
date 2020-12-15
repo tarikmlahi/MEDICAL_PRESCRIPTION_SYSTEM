@@ -1,5 +1,5 @@
 package view.prescription;
-
+// demo Softway
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
